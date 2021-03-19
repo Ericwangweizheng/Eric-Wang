@@ -18,7 +18,7 @@
 </div>
 
 ---
-<h1>Biography</h1>
+<h2>Biography</h2>
 
 <p>I am a PhD Candidate supervised by 
 <a href="https://www.st.ewi.tudelft.nl/marco/" target="_blank" rel="noopener">Dr. M. Zuniga</a>, 
