@@ -12,7 +12,6 @@
       <p><b>University: <a href="https://www.tudelft.nl/">Delft University of Technology</a></b></p>
       <p><b>Email: w.wang-14@tudelft.nl</b></p>
     </td>
-    
   </tr>
 </table>
 </div>
