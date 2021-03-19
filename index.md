@@ -1,37 +1,50 @@
-## Welcome to GitHub Pages
+<div>
+<table border="0">
+  <tr>
+    <td width="30%">
+      <img src="/zhengjianzhao.jpg" width="100%">
+    </td>
+    <td width="70%">
+      <h1>Weizheng Wang<h1>
+      <p><b>Position: PhD Candidate</b></p>
+      <p><b>Office: B36 20</b></p>
+      <p><b>Group: <a href="https://www.tudelft.nl/ewi/over-de-faculteit/afdelingen/software-technology/embedded-and-networked-systems/">Embedded and Networked Systems</a></p>
+      <p><b>University: <a href="https://www.tudelft.nl/">Delft University of Technology</a></b></p>
+      <p><b>Email: w.wang-14@tudelft.nl</b></p>
+    </td>
+    
+  </tr>
+</table>
+</div>
 
-You can use the [editor on GitHub](https://github.com/renminribaoshe/EricWang.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+---
+<h1>Biography</h1>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<p>I am a PhD Candidate supervised by 
+<a href="https://www.st.ewi.tudelft.nl/marco/" target="_blank" rel="noopener">Dr. M. Zuniga</a>, 
+<a href="https://www.st.ewi.tudelft.nl/qing/" target="_blank" rel="noopener">Dr. Q. Wang</a> and
+<a href="http://www.st.ewi.tudelft.nl/koen/" target="_blank" rel="noopener">Prof. dr. K.G. Langendoen</a> at the 
+<a href="https://www.tudelft.nl/ewi/over-de-faculteit/afdelingen/software-technology/embedded-and-networked-systems/" target="_blank" rel="noopener">Embedded and Networked Systems group</a>.</p>
 
-### Markdown
+<p>Currently my reseach interests focus on biometric authentication. 
+Biometric authentication is a security process that relies on the unique biological characteristics of an individual to verify that he is who is says he is.
+Following the pervasive usage of smartphone, biometric authentication is highly involved in our daily life. 
+The popular access granted methods, like fingertip, iris and face, are in the domain of biometric authentication. 
+Now my reseach direction aims to seek a more secure methods comparing with the state-of-the-art methods. 
+In this aspect, we will faciliate the knowledage of data processing and machine learning.</p>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+<p>In addition, I have some research experience on visible light communication, which is also an interesting topic for me. </p>
+---
 
-```markdown
-Syntax highlighted code block
+### Research interests
+1. Biometric authentication
+2. Visible light communication
+3. Dimensionality reduction
 
-# Header 1
-## Header 2
-### Header 3
+### Personal interests
+1. Play, watch and organize football game
+2. Play basketball, badminton and pool
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/renminribaoshe/EricWang.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### Publications
+<p><a href="https://www.st.ewi.tudelft.nl/marco/files/passiveLoc_MASS18.pdf"> Wang, W., Zhang, J., Wang, Q., & Zuniga, M. (2018, October). Leveraging smart lights for passive localization. In 2018 IEEE 15th International Conference on Mobile Ad Hoc and Sensor Systems (MASS)</a></p>
+<p><a href="/TIOT.pdf"> Wang, W., Wang, Q., Zhang, J., & Zuniga, M. (2020). PassiveVLP: Leveraging smart lights for passive positioning. ACM Transactions on Internet of Things, 1(1), 1-24.</a></p>
