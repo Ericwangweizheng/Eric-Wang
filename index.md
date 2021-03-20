@@ -1,9 +1,6 @@
 <div>
 <table border="0">
   <tr>
-    <td width="25%">
-      <img src="/photo.jpg" width="100%">
-    </td>
     <td width="75%">
       <h2>Weizheng Wang<h2>
       <p><b>Position: PhD Candidate</b></p>
@@ -12,10 +9,14 @@
       <p><b>University: <a href="https://www.tudelft.nl/">Delft University of Technology</a></b></p>
       <p><b>Email: w.wang-14@tudelft.nl</b></p>
     </td>
+    <td width="25%">
+      <img src="/photo.jpg" width="100%">
+    </td>
   </tr>
 </table>
 </div>
 
+---
 ## Biography
 
 I am a PhD Candidate supervised by 
@@ -32,6 +33,8 @@ Now my reseach direction aims to seek a more secure methods comparing with the s
 In this aspect, we will faciliate the knowledage of data processing and machine learning.
 
 In addition, I have some research experience on visible light communication, which is also an interesting topic for me. 
+
+---
 
 ### Research interests
 1. Biometric authentication
