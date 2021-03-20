@@ -5,7 +5,7 @@
       <img src="/zhengjianzhao.jpg" width="100%">
     </td>
     <td width="70%">
-      <h1>Weizheng Wang<h1>
+      <h2>Weizheng Wang<h2>
       <p><b>Position: PhD Candidate</b></p>
       <p><b>Office: B36 20</b></p>
       <p><b>Group: <a href="https://www.tudelft.nl/ewi/over-de-faculteit/afdelingen/software-technology/embedded-and-networked-systems/">Embedded and Networked Systems</a></p>
