@@ -2,7 +2,7 @@
 <table border="0">
   <tr>
     <td width="25%">
-      <img src="/photo.jpg" width="100%">
+      <img src="https://raw.githubusercontent.com/renminribaoshe/EricWang.github.io/gh-pages/photo.jpg" width="100%">
     </td>
     <td width="75%">
       <h1>Weizheng Wang</h1>
