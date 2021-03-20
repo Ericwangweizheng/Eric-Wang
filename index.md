@@ -1,6 +1,9 @@
 <div>
 <table border="0">
   <tr>
+    <td width="25%">
+      <img src="/photo.jpg" width="100%">
+    </td>
     <td width="75%">
       <h2>Weizheng Wang<h2>
       <p><b>Position: PhD Candidate</b></p>
@@ -9,15 +12,13 @@
       <p><b>University: <a href="https://www.tudelft.nl/">Delft University of Technology</a></b></p>
       <p><b>Email: w.wang-14@tudelft.nl</b></p>
     </td>
-    <td width="25%">
-      <img src="/photo.jpg" width="100%">
-    </td>
   </tr>
 </table>
 </div>
 
----
-## Biography
+<hr />
+
+<h3 id="Biography">Biography</h3>
 
 I am a PhD Candidate supervised by 
 <a href="https://www.st.ewi.tudelft.nl/marco/" target="_blank" rel="noopener">Dr. M. Zuniga</a>, 
@@ -34,18 +35,23 @@ In this aspect, we will faciliate the knowledage of data processing and machine 
 
 In addition, I have some research experience on visible light communication, which is also an interesting topic for me. 
 
----
+<hr />
 
-### Research interests
-1. Biometric authentication
-2. Visible light communication
-3. Dimensionality reduction
+<h3 id="Research interests">Research interests</h3>
+<ul>
+<li>Biometric authentication</li>
+<li>Visible light communication</li>
+<li>Dimensionality reduction</li>
+<ul>
 
-### Personal interests
-1. Play, watch and organize football game
-2. Play basketball, badminton and pool
+<h3 id="Personal interests">Personal interests</h3>
+<ul>
+<li>Play, watch and organize football game</li>
+<li>Play basketball, badminton and pool</li>
+</ul>
 
-### Publications
-1. <a href="https://www.st.ewi.tudelft.nl/marco/files/passiveLoc_MASS18.pdf"> Wang, W., Zhang, J., Wang, Q., & Zuniga, M. (2018, October). Leveraging smart lights for passive localization. In 2018 IEEE 15th International Conference on Mobile Ad Hoc and Sensor Systems (MASS)</a>
-
-2. <a href="/TIOT.pdf"> Wang, W., Wang, Q., Zhang, J., & Zuniga, M. (2020). PassiveVLP: Leveraging smart lights for passive positioning. ACM Transactions on Internet of Things, 1(1), 1-24.</a>
+<h3 id="Publications">Publications</h3>
+<ul>
+<li><a href="https://www.st.ewi.tudelft.nl/marco/files/passiveLoc_MASS18.pdf"> Wang, W., Zhang, J., Wang, Q., & Zuniga, M. (2018, October). Leveraging smart lights for passive localization. In 2018 IEEE 15th International Conference on Mobile Ad Hoc and Sensor Systems (MASS)</a></li>
+<li><a href="/TIOT.pdf"> Wang, W., Wang, Q., Zhang, J., & Zuniga, M. (2020). PassiveVLP: Leveraging smart lights for passive positioning. ACM Transactions on Internet of Things, 1(1), 1-24.</a></li>
+</ul>
