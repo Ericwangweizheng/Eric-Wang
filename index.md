@@ -2,7 +2,7 @@
 <table border="0">
   <tr>
     <td width="25%">
-      <img src="/renminribaoshe.github.io/EricWang.github.io/photo.jpg" width="100%">
+      <img src="https://github.com/renminribaoshe/EricWang.github.io/blob/gh-pages/photo.jpg" width="100%">
     </td>
     <td width="75%">
       <h1>Weizheng Wang</h1>
@@ -45,4 +45,4 @@ In addition, I have some research experience on visible light communication, whi
 ## Publications
 1. <a href="https://www.st.ewi.tudelft.nl/marco/files/passiveLoc_MASS18.pdf"> Wang, W., Zhang, J., Wang, Q., & Zuniga, M. (2018, October). Leveraging smart lights for passive localization. In 2018 IEEE 15th International Conference on Mobile Ad Hoc and Sensor Systems (MASS)</a>
 
-2. <a href="/renminribaoshe.github.io/EricWang.github.io/TIOT.pdf"> Wang, W., Wang, Q., Zhang, J., & Zuniga, M. (2020). PassiveVLP: Leveraging smart lights for passive positioning. ACM Transactions on Internet of Things, 1(1), 1-24.</a>
+2. <a href="https://github.com/renminribaoshe/EricWang.github.io/blob/gh-pages/TIOT.pdf"> Wang, W., Wang, Q., Zhang, J., & Zuniga, M. (2020). PassiveVLP: Leveraging smart lights for passive positioning. ACM Transactions on Internet of Things, 1(1), 1-24.</a>
