@@ -6,10 +6,10 @@
     </td>
     <td width="75%">
       <h1>Weizheng Wang</h1>
-      <p><b>Position: PhD Candidate</b></p>
-      <p><b>Office: B36 20</b></p>
-      <p><b>Group: <a href="https://www.tudelft.nl/ewi/over-de-faculteit/afdelingen/software-technology/embedded-and-networked-systems/">Embedded and Networked Systems</a></b></p>
-      <p><b>University: <a href="https://www.tudelft.nl/">Delft University of Technology</a></b></p>
+      <p><b>PhD Candidate</b></p>
+      <p><b><a href="https://www.tudelft.nl/ewi/over-de-faculteit/afdelingen/software-technology/embedded-and-networked-systems/">Embedded and Networked Systems Group</a></b></p>
+      <p><b><a href="https://www.tudelft.nl/">Delft University of Technology</a></b></p>
+      <p><b>Office: 2.900, west 2nd floor, Building 28</b></p>
       <p><b>Email: w.wang-14@tudelft.nl</b></p>
     </td>  
   </tr>
@@ -38,11 +38,11 @@ In addition, I have some research experience on visible light communication, whi
 2. Visible light communication
 3. Dimensionality reduction
 
+## Publications
+1. Weizheng Wang, Junwei Zhang, Qing Wang, Marco Zuniga (2018).<a href="https://www.st.ewi.tudelft.nl/marco/files/passiveLoc_MASS18.pdf">  Leveraging smart lights for passive localization.</a> In 2018 IEEE 15th International Conference on Mobile Ad Hoc and Sensor Systems (MASS)
+
+2. Weizheng Wang, Junwei Zhang, Qing Wang, Marco Zuniga (2020).<a href="https://github.com/renminribaoshe/EricWang.github.io/blob/gh-pages/TIOT.pdf">  PassiveVLP: Leveraging smart lights for passive positioning.</a> ACM Transactions on Internet of Things, 1(1), 1-24.
+
 ## Personal interests
 1. Play, watch and organize football game
 2. Play basketball, badminton and pool
-
-## Publications
-1. <a href="https://www.st.ewi.tudelft.nl/marco/files/passiveLoc_MASS18.pdf"> Wang, W., Zhang, J., Wang, Q., & Zuniga, M. (2018, October). Leveraging smart lights for passive localization. In 2018 IEEE 15th International Conference on Mobile Ad Hoc and Sensor Systems (MASS)</a>
-
-2. <a href="https://github.com/renminribaoshe/EricWang.github.io/blob/gh-pages/TIOT.pdf"> Wang, W., Wang, Q., Zhang, J., & Zuniga, M. (2020). PassiveVLP: Leveraging smart lights for passive positioning. ACM Transactions on Internet of Things, 1(1), 1-24.</a>
