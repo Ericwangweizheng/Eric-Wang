@@ -2,15 +2,15 @@
 <table border="0">
   <tr>
     <td width="25%">
-      <img src="/zhengjianzhao.jpg" width="100%">
+      <img src="/photo.jpg" width="100%">
     </td>
     <td width="75%">
-      <h1>张三</h1>
-      <p><b>硕士研究生</b></p>
-      <p><b>××大学××学院</b></p>
-      <p><b>邮箱：1234567789@qq.com</b></p>
-      <p><b>地址：××市××区××路××号××大学，××楼，邮编×××</b></p>
-      <p><a href="/index-en.html">English Version</a></p>
+      <h1>Weizheng Wang</h1>
+      <p><b>Position: PhD Candidate</b></p>
+      <p><b>Office: B36 20</b></p>
+      <p><b>Group: <a href="https://www.tudelft.nl/ewi/over-de-faculteit/afdelingen/software-technology/embedded-and-networked-systems/">Embedded and Networked Systems</a></b></p>
+      <p><b>University: <a href="https://www.tudelft.nl/">Delft University of Technology</a></b></p>
+      <p><b>Email: w.wang-14@tudelft.nl</b></p>
     </td>  
   </tr>
 </table>
