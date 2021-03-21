@@ -1,3 +1,3 @@
-# EricWang.github.io
+# Ericwangweizheng.github.io
 
 this is my portfolio
