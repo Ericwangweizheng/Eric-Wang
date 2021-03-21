@@ -45,7 +45,7 @@ In this aspect, we will faciliate the knowledage of data processing and machine 
 <h4><strong>&#9632;&nbsp;&nbsp;Publications:</strong></h4>
 <ul style="list-style-type: disc;">
 <li>
-    <p>Weizheng Wang, Qing Wang, Junwei Zhang, Marco Zuniga (2020).<a href="https://github.com/renminribaoshe/EricWang.github.io/blob/gh-pages/TIOT.pdf">  PassiveVLP: Leveraging smart lights for passive positioning.</a> ACM Transactions on Internet of Things, 1(1), 1-24.</p>
+    <p>Weizheng Wang, Qing Wang, Junwei Zhang, Marco Zuniga (2020).<a href="./TIOT.pdf">  PassiveVLP: Leveraging smart lights for passive positioning.</a> ACM Transactions on Internet of Things, 1(1), 1-24.</p>
   </li>
   <li>
     <p>Weizheng Wang, Junwei Zhang, Qing Wang, Marco Zuniga (2018).<a href="https://www.st.ewi.tudelft.nl/marco/files/passiveLoc_MASS18.pdf">  Leveraging smart lights for passive localization.</a> In IEEE 15th International Conference on Mobile Ad Hoc and Sensor Systems (MASS).</p>
