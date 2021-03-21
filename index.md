@@ -41,7 +41,7 @@ In addition, I have some research experience on visible light communication, whi
 ## Publications
 1. Weizheng Wang, Qing Wang, Junwei Zhang, Marco Zuniga (2020).<a href="https://github.com/renminribaoshe/EricWang.github.io/blob/gh-pages/TIOT.pdf">  PassiveVLP: Leveraging smart lights for passive positioning.</a> ACM Transactions on Internet of Things, 1(1), 1-24.
 
-2. Weizheng Wang, Junwei Zhang, Qing Wang, Marco Zuniga (2018).<a href="https://www.st.ewi.tudelft.nl/marco/files/passiveLoc_MASS18.pdf">  Leveraging smart lights for passive localization.</a> In 2018 IEEE 15th International Conference on Mobile Ad Hoc and Sensor Systems (MASS)
+2. Weizheng Wang, Junwei Zhang, Qing Wang, Marco Zuniga (2018).<a href="https://www.st.ewi.tudelft.nl/marco/files/passiveLoc_MASS18.pdf">  Leveraging smart lights for passive localization.</a> In IEEE 15th International Conference on Mobile Ad Hoc and Sensor Systems (MASS).
 
 ## Personal interests
 1. Play, watch and organize football game
